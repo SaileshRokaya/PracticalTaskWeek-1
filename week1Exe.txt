@@ -1,0 +1,27 @@
+1. Create a python program with below mentioned specification.
+
+	- Input the name of the user
+	- Input 2 numbers from the user
+	- Calculate the following: Addition, Substraction, Multiplication, Division, Factorial
+	- Print the output by greeting Hello to the user followed by the results of calculation.
+	
+	Output Sample:
+	
+	Hello Deepak, Please find below your calculations.
+	Addition: 
+	Substraction:
+	Multiplication:
+	Division:
+	Factorial:
+	
+	Bye, see you next time
+
+2. Write a python program to input the temperature of a user in degree celcius and convert it into farenheit.
+3. Write a python program to swap the values of 3 variables.
+4. Python program to implement below mentioned expressions:
+	
+		a. Quadratic equation -b + sqrroot(b2-4ac)/2a  -b - sqrroot(b2 - 4ac)/2a
+5. Input the values of radius, length and width from a user in a python program and calculate the following:
+		a. Area of a circle
+		b. Area of a rectangle
+		c. Area of a square
